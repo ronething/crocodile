@@ -5,3 +5,5 @@
 web/node_modules
 *.pem
 build/*
+
+go.sum
